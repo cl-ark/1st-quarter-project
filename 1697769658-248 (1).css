@@ -1,0 +1,13 @@
+body {
+	background-color: peachpuff;
+}
+
+table {
+	background-color: whitesmoke; border-collapse: collapse;
+}
+h1 {
+	font-family: serif;
+}
+th {
+	font-family: inherit;
+}
